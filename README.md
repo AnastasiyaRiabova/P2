@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/f4xm4449vogxq69n?svg=true)](https://ci.appveyor.com/project/jswift911/aqa-patterns-test-users)
